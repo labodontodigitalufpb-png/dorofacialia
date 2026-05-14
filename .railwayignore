@@ -1,0 +1,19 @@
+.git/
+.DS_Store
+__pycache__/
+*.py[cod]
+
+venv/
+node_modules/
+
+android/
+
+HEALTHIA.zip
+logo nova.png
+avaliar_banco_v2.py
+avaliar_modelos.py
+leitura.py
+
+package.json
+package-lock.json
+capacitor.config.json
