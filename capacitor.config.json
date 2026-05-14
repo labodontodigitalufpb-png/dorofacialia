@@ -1,0 +1,8 @@
+{
+  "appId": "br.ufpb.dororofacialai",
+  "appName": "Dor Orofacial AI Helper",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
